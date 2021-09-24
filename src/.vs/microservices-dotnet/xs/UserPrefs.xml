@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{7E86FC04-A49C-4824-BE62-5222EE09A796}|Default">
+  <MonoDevelop.Ide.ItemProperties.Services.Catalog.Catalog.Api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/Catalog/Catalog.Api/Program.cs">
+    <Files>
+      <File FileName="Services/Catalog/Catalog.Api/Controllers/WeatherForecastController.cs" Line="39" Column="2" />
+      <File FileName="Services/Catalog/Catalog.Api/Program.cs" Line="21" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="microservices-dotnet" expanded="True">
+            <Node name="Services" expanded="True">
+              <Node name="Catalog" expanded="True">
+                <Node name="Catalog.Api" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Program.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
