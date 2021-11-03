@@ -723,11 +723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ulas\\Source\\Repos\\ulasdev\\microservice-dotnet\\src\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
+      "projectUniqueName": "C:\\Users\\ulas\\Source\\Repos\\ulascansenturk\\microservice-dotnet\\src\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
       "projectName": "Catalog.Api",
-      "projectPath": "C:\\Users\\ulas\\Source\\Repos\\ulasdev\\microservice-dotnet\\src\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
+      "projectPath": "C:\\Users\\ulas\\Source\\Repos\\ulascansenturk\\microservice-dotnet\\src\\Services\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
       "packagesPath": "C:\\Users\\ulas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ulas\\Source\\Repos\\ulasdev\\microservice-dotnet\\src\\Services\\Catalog\\Catalog.Api\\obj\\",
+      "outputPath": "C:\\Users\\ulas\\Source\\Repos\\ulascansenturk\\microservice-dotnet\\src\\Services\\Catalog\\Catalog.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ulas\\AppData\\Roaming\\NuGet\\NuGet.Config",
